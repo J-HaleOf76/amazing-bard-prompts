@@ -1,5 +1,5 @@
-<p align="center">
-	<img src="https://img.shields.io/badge/amazing-serise-pink" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width: 100%;">	     
+<p align="right">
+	<img src="https://img.shields.io/badge/amazing-serise-black" alt="amazing-serise" style="max-width: 100%;">	     
 </p>
 
 
