@@ -1,4 +1,12 @@
+<p align="center">
+	<img src="https://img.shields.io/badge/amazing-serise-pink" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width: 100%;">	     
+</p>
+
+
 <p align="center"><h1>Amazing Bard Prompts VOL.1</h1></p>
+
+
+
 
 ![](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/guardians_of_galaxy_3.gif)
 
